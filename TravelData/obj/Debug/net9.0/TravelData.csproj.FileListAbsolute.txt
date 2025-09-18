@@ -1,0 +1,14 @@
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/bin/Debug/net9.0/TravelData.deps.json
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/bin/Debug/net9.0/TravelData.runtimeconfig.json
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/bin/Debug/net9.0/TravelData.dll
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/bin/Debug/net9.0/TravelData.pdb
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.csproj.AssemblyReference.cache
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.AssemblyInfoInputs.cache
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.AssemblyInfo.cs
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.csproj.CoreCompileInputs.cache
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.dll
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/refint/TravelData.dll
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.pdb
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/TravelData.genruntimeconfig.cache
+/Users/yelenaghushchyan/TravelAdventureApi/TravelData/obj/Debug/net9.0/ref/TravelData.dll
